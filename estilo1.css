@@ -1,0 +1,37 @@
+h1 {
+    color: steelblue;
+    font-size: 400%;
+    display: flex;
+    width: 700px;
+    height: 520px;
+    color: steelblue;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 100px;
+}
+h2{
+    font-size: 400%;
+    display: flex;
+    width: 700px;
+    height: 520px;
+    color: rgb(2, 0, 0);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 100px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(150, 0, 0);
+    
+}
